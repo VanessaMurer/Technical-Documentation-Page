@@ -3,4 +3,4 @@
 
 Uma página de apresentação do cantor J-Hope e seu trabalho com a intenção de vendas de albums músicais. 
 
-Live no GitHub Pages [aqui](https://vanessamurer.github.io/Product-Landing-Page/)
+Live no GitHub Pages [aqui](https://vanessamurer.github.io/Technical-Documentation-Page/)
